@@ -9,11 +9,8 @@
 📫 How to reach me: <a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
 <div>
 Please feel free to clone projects and raise issues if you think something could be better.
- 
- 
-
+ <br/><br/>
 Happy Coding! 😊
-
 <div align="center">
 
 

@@ -3,8 +3,9 @@
  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-- I am Hasan! I am a curious, self-taught Front-End / Mobile App Developer with a background of 9-year Engineering experience.
-- I steered my career path to become a Software Developer 2 years ago. Currently, I am looking for new opportunities as a Front-End / Mobile App Developer.
+- I am Hasan! I am a curious, self-taught Front-End / Mobile App Developer with a background of 9-year Electronic Engineering experience.
+- I steered my career path to become a Software Developer 2 years ago. 
+- Currently, I am looking for new opportunities as a Front-End / Mobile App Developer.
 
 📫 How to reach me: <a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
 <div>

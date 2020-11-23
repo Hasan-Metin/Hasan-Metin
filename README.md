@@ -1,6 +1,6 @@
  [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/hasan-metin)
 
-### Hi 👋 
+### Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 I am Hasan! I am working on projects related to Front-End and Mobile App Development.
 - 👨🏽‍💻 Current work in deep learning and algorithms.
 - 🤝 Looking for collaborations in ReactJS and React Native

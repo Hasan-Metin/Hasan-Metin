@@ -6,7 +6,7 @@ I am Hasan! I am working on projects related to Front-End and Mobile App Develop
 - 🤝 Looking for collaborations in ReactJS and React Native
 
 
-## Tech Stack :computer:
+## My Technical Proficiencies Include :computer:
 
 <br>
 <table>

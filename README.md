@@ -7,7 +7,7 @@
 
 - I have a bachelor's degree in Electronic and Electrical Engineering and have the ability to utilize accumulated diverse technical experience and programming ability to collaboratively produce quality software and web/mobile related products or services with help of an Electronic Engineering background.
 
-- I steered my career path to becoming a Software Developer. Currently, looking to join an organization where the opportunity for growth and professional development is embraced as a Mobile App / Front-End Developer.
+- I am a detail-oriented and creative team player seeking to join a progressive and inclusive company to utilize my skills and work collaboratively across teams to develop feasible solutions. Bringing six years of experience in Electronic Engineering and four years of experience working with mobile and web app teams to build dynamic User Interfaces in fast-paced and agile environments.
 
 📫 How to reach me: <a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
 <div>
